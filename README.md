@@ -11,7 +11,7 @@
 - :seedling: &nbsp;I’m currently learning **Node.js**
 - :speech_balloon: &nbsp;I like to talk about **Tech**, **Football** and **Movies**
 - :mailbox: &nbsp;View my **[resume]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]** or **[email]**
+- :computer: &nbsp;Reach out to me on **[LinkedIn]** or **[email]**
 
 <br>
 
