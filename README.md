@@ -1,5 +1,5 @@
 <h1 align="center"> &lt;Nikhilesh S <img src="https://i.imgur.com/n3l0uQ0.gif"> /&gt;</h1>
-My name is Nikhilesh S and I'm a software developer doing my sophomore year of Computer Science and Engineering. You can find me on. [linkedIn]<a id="GitHub" href="https://github.com/NikhileshJr08/">
+My name is Nikhilesh S and I'm a software developer doing my sophomore year of Computer Science and Engineering. You can find me on. [linkedIn][https://www.linkedin.com/in/nikhilesh-s/]
 
 
 ## 🔧 Technologies & Tools
