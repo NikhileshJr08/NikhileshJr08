@@ -1,5 +1,5 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Nikhilesh S</h1>
-<h3 align="left">I am student software Engineer Sri Venkateswara College of Engineering</h3>
+<h3 align="left">I am student software Engineer at Sri Venkateswara College of Engineering</h3>
 
 <p align="left">
   <a href="https://github.com/NikhileshJr08">
@@ -11,7 +11,7 @@
 - :seedling: &nbsp;I’m currently learning **Node.js**
 - :speech_balloon: &nbsp;I like to talk about **Tech**, **Football** and **Movies**
 - :mailbox: &nbsp;View my **[resume]**
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :computer: &nbsp;Connect with me on **[LinkedIn]** or **[email]**
 
 <br>
 
@@ -21,55 +21,55 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="115">
       <a href="#macropower-tech">
         <img src="./img/javascriptlogo.png" width="48" height="48" alt="C#" />
       </a>
       <br>JavaScript&nbsp;
     </td>
-    <td align="center" width="96">
+    <td align="center" width="115">
       <a href="#macropower-tech">
         <img src="./img/pythonlogo.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
-    <td align="center" width="96">
+    <td align="center" width="115">
       <a href="#macropower-tech">
         <img src="./img/clogo.png" width="48" height="48" alt="Golang" />
       </a>
       <br>C++
     </td>
-    <td align="center" width="96">
+    <td align="center" width="115">
       <a href="#macropower-tech">
-        <img src="./img/nodejslogo.png" width="48" height="48" alt="Jsonnet" />
+        <img src="./img/nodejslogo.png" width="65" height="48" alt="Jsonnet" />
       </a>
       <br>Node.js
     </td>
-    <td align="center" width="96">
+    <td align="center" width="115">
       <a href="#macropower-tech">
-        <img src="./img/expressjslogo.png" width="48" height="48" alt="TypeScript" />
+        <img src="./img/expressjslogo.png" width="85" height="48" alt="TypeScript" />
       </a>
       <br>Express.js
     </td>
-    <td align="center" width="96">
+    <td align="center" width="115">
       <a href="#macropower-tech">
         <img src="./img/dockerlogo.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>Docker
     </td>
-    <td align="center" width="96">
+    <td align="center" width="115">
       <a href="#macropower-tech" >
         <img src="./img/gitlogo.png" width="48" height="48" alt="React" />
       </a>
       <br>Git
     </td>
-    <td align="center" width="96">
+    <td align="center" width="115">
       <a href="#macropower-tech">
         <img src="./img/flasklogo.png" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>flask
     </td>
-    <td align="center" width="96">
+    <td align="center" width="115">
       <a href="#macropower-tech">
         <img src="./img/socketiologo.png" width="48" height="48" alt="Sass" />
       </a>
@@ -85,7 +85,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="./img/mongodblogo.png" width="48" height="48" alt="Kubernetes" />
+        <img src="./img/mongodblogo.png" width="85" height="48" alt="Kubernetes" />
       </a>
       <br>Mongo DB
     </td>
@@ -127,9 +127,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" />
+        <img src="./img/javalogo.png" width="48" height="48" alt="Thanos" />
       </a>
-      <br>Thanos
+      <br>Java
     </td>
   </tr>
 </table>
@@ -139,3 +139,4 @@
 [84.51°]: https://github.com/8451 "84.51° Github Home"
 [resume]: https://drive.google.com/file/d/1XSp5_WLijI1q81RpOn4Z2-VmPjYiI_f9/view?usp=sharing
 [linkedin]: https://www.linkedin.com/in/nikhilesh-s "Jacob Colvin LinkedIn"
+[email]: mailto:nikhileshjr08@gmail.com
