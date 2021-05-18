@@ -11,7 +11,7 @@
 - :seedling: &nbsp;I’m currently learning **Node.js**
 - :speech_balloon: &nbsp;I like to talk about **Tech**, **Football** and **Movies**
 - :mailbox: &nbsp;View my **[resume]**
-- :computer: &nbsp;Reach out to me on **[LinkedIn]** or **[email]**
+- :computer: &nbsp;Reach out to me on **[LinkedIn]** or **[Email]**
 
 <br>
 
@@ -139,4 +139,4 @@
 [84.51°]: https://github.com/8451 "84.51° Github Home"
 [resume]: https://drive.google.com/file/d/1XSp5_WLijI1q81RpOn4Z2-VmPjYiI_f9/view?usp=sharing
 [linkedin]: https://www.linkedin.com/in/nikhilesh-s "Jacob Colvin LinkedIn"
-[email]: mailto:nikhileshjr08@gmail.com
+[Email]: mailto:nikhileshjr08@gmail.com
