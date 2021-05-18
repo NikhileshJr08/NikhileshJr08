@@ -1,5 +1,5 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Nikhilesh S</h1>
-<h3 align="left">I am student software Engineer at Sri Venkateswara College of Engineering</h3>
+<h3 align="left">I am Student Software Engineer from Sri Venkateswara College of Engineering</h3>
 
 <p align="left">
   <a href="https://github.com/NikhileshJr08">
