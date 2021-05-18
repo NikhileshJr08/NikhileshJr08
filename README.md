@@ -97,7 +97,7 @@
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/postmanlogo.png" width="48" height="48" alt="RHEL" />
+        <img src="./img/postmanlogo.svg" width="48" height="48" alt="RHEL" />
       </a>
       <br>Postman
     </td>
@@ -115,15 +115,15 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" />
+        <img src="./img/css3logo.png" width="48" height="48" alt="Prometheus" />
       </a>
-      <br>Grafana
+      <br>CSS
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" />
+        <img src="./img/html5logo.png" width="48" height="48" alt="Grafana" />
       </a>
-      <br>Prometheus
+      <br>HTML
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
