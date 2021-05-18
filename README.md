@@ -1,18 +1,16 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I'm Nikhiles S</h1>
+<h1 align="left" id="macropower-title">:wave: Hello there! I'm Nikhilesh S</h1>
 <h3 align="left">I am student software Engineer Sri Venkateswara College of Engineering</h3>
 
 <p align="left">
-  <a href="https://github.com/MacroPower/MacroPower">
+  <a href="https://github.com/NikhileshJr08">
     <img src="https://komarev.com/ghpvc/?username=NikhileshJr08" alt="page views" />
   </a>
 </p>
 
 
-
-- :office: &nbsp;I'm currently working at **[84.51°]**
-- :seedling: &nbsp;I’m currently learning **Go**
-- :speech_balloon: &nbsp;I like to talk about **Homelabbing** and **OSS**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
+- :seedling: &nbsp;I’m currently learning **Node.js**
+- :speech_balloon: &nbsp;I like to talk about **Tech**, **Football** and **Movies**
+- :mailbox: &nbsp;View my **[resume]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
@@ -136,36 +134,8 @@
   </tr>
 </table>
 
-<h2 align="left">Coding Activity</h2>
-
-> Total logged time since 2020-07-19. Updated every 1 hour. [(Learn how this works)](https://macropower.readthedocs.io/en/latest/#dynamic-ascii-graph)
-
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
-
-```
-   603.7 hr  ┤                                                                                          ╭──────── 
-   602.1 hr  ┤                                                                                   ╭──────╯         
-   600.6 hr  ┤                                                                             ╭─────╯                
-   599.0 hr  ┤                                                                            ╭╯                      
-   597.4 hr  ┤                                            ╭───────────────────────────────╯                       
-   595.8 hr  ┤                                         ╭──╯                                                       
-   594.3 hr  ┤                             ╭───────────╯                                                          
-   592.7 hr  ┤                          ╭──╯                                                                      
-   591.1 hr  ┤               ╭──────────╯                                                                         
-   589.6 hr  ┤            ╭──╯                                                                                    
-   588.0 hr  ┤   ╭────────╯                                                                                       
-   586.4 hr  ┤  ╭╯                                                                                                
-   584.8 hr  ┼──╯                                                                                                 
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
-
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
-
 <!-- links -->
 
 [84.51°]: https://github.com/8451 "84.51° Github Home"
-[issues page]: https://github.com/MacroPower/MacroPower/issues "MacroPower/issues"
+[resume]: https://drive.google.com/file/d/1XSp5_WLijI1q81RpOn4Z2-VmPjYiI_f9/view?usp=sharing
 [linkedin]: https://www.linkedin.com/in/nikhilesh-s "Jacob Colvin LinkedIn"
