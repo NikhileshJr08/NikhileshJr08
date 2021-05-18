@@ -23,95 +23,95 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+        <img src="./img/javascriptlogo.png" width="48" height="48" alt="C#" />
       </a>
-      <br>C#&nbsp;(Core)
+      <br>JavaScript&nbsp;
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="./img/pythonlogo.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="./img/clogo.png" width="48" height="48" alt="Golang" />
       </a>
-      <br>Go
+      <br>C++
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="./img/nodejslogo.png" width="48" height="48" alt="Jsonnet" />
       </a>
-      <br>Jsonnet
+      <br>Node.js
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./img/expressjslogo.png" width="48" height="48" alt="TypeScript" />
       </a>
-      <br>TypeScript
+      <br>Express.js
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br>Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="./img/dockerlogo.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>Docker
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="./img/gitlogo.png" width="48" height="48" alt="React" />
       </a>
-      <br>Kubernetes
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
-      </a>
-      <br>Debian
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
-      </a>
-      <br>RHEL
+      <br>Git
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
+        <img src="./img/flasklogo.png" width="48" height="48" alt="Bootstrap" />
       </a>
-      <br>Powershell
+      <br>flask
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/socketiologo.png" width="48" height="48" alt="Sass" />
+      </a>
+      <br>Socket-io
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="./img/firebaselogo.png" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="./img/mongodblogo.png" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Mongo DB
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" />
+        <img src="./img/MySQLlogo.png" width="48" height="48" alt="Debian" />
       </a>
-      <br>MySQL
+      <br>My SQL
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/postmanlogo.png" width="48" height="48" alt="RHEL" />
+      </a>
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="./img/numpylogo.png" width="48" height="48" alt="Powershell" />
+      </a>
+      <br>NumPy
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="./img/pandaslogo.png" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>Pandas
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
