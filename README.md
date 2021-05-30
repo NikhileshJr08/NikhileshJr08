@@ -41,9 +41,9 @@
     </td>
     <td align="center" width="115">
       <a href="#macropower-tech">
-        <img src="./img/reactJsLogo.png" width="65" height="48" alt="Jsonnet" />
+        <img src="./img/ReactJsLogo.png" width="55" height="48" alt="Jsonnet" />
       </a>
-      <br>React.js
+      <br>React.js/React Native
     </td>
     <td align="center" width="115">
       <a href="#macropower-tech">
