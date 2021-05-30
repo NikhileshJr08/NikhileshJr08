@@ -134,8 +134,10 @@
   </tr>
 </table>
 
-<img src="./img/HelloWorldBenAwad.png.png"/>
-HelloWorldBenAwad.png
+---
+
+  <img alt="header" src="/img/HelloWorldBenAwad.png" width="1000" height = "200"></img>
+
 
 <!-- links -->
 
