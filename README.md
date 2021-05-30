@@ -14,7 +14,7 @@
 - :computer: &nbsp;Reach out to me on **[LinkedIn]** or **[Email]**
 - &nbsp;My favourite youtuber for you :nerd_face: - **[Ben Awad]**
 
-<br>
+---
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
