@@ -12,6 +12,7 @@
 - :speech_balloon: &nbsp;I like to talk about **Tech**, **Football** and **Movies**
 - :mailbox: &nbsp;View my **[resume]**
 - :computer: &nbsp;Reach out to me on **[LinkedIn]** or **[Email]**
+- &nbsp;My favourite youtuber for you :nerd_face: - **[Ben Awad]**
 
 <br>
 
@@ -151,3 +152,4 @@
 [resume]: https://drive.google.com/file/d/1XSp5_WLijI1q81RpOn4Z2-VmPjYiI_f9/view?usp=sharing
 [linkedin]: https://www.linkedin.com/in/nikhilesh-s "Jacob Colvin LinkedIn"
 [Email]: mailto:nikhileshjr08@gmail.com
+[Ben Awad]: https://www.youtube.com/c/BenAwad97
