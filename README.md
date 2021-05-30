@@ -41,6 +41,12 @@
     </td>
     <td align="center" width="115">
       <a href="#macropower-tech">
+        <img src="./img/reactJsLogo.png" width="65" height="48" alt="Jsonnet" />
+      </a>
+      <br>React.js
+    </td>
+    <td align="center" width="115">
+      <a href="#macropower-tech">
         <img src="./img/nodejslogo.png" width="65" height="48" alt="Jsonnet" />
       </a>
       <br>Node.js
