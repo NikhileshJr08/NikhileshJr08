@@ -9,10 +9,12 @@
 
 
 - :seedling: &nbsp;I’m currently learning **Node.js, React.js and GraphQL**
-- :speech_balloon: &nbsp;I like to talk about **Tech**, **Football** and **Movies**
+- :speech_balloon: &nbsp;I like to talk about **Tech**, **Football** and **Movies**  
 - :mailbox: &nbsp;View my **[resume]**
 - :computer: &nbsp;Reach out to me on **[LinkedIn]** or **[Email]**
 - &nbsp;My favourite youtuber for you :nerd_face: - **[Ben Awad]**
+
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=NikhileshJr08&theme=dark&hide_border=true" width = 400>
 
 ---
 
@@ -147,6 +149,8 @@
 ![Metrics](https://metrics.lecoq.io/NikhileshJr08?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 -->
 ---
+
+
 
   <img alt="header" src="/img/HelloWorldBenAwad.png" width="1000" height = "200"></img>
 
