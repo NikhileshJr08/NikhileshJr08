@@ -1,5 +1,6 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Nikhilesh S</h1>
 <h3 align="left">I am a self-taught Software Engineer from India :diya_lamp:</h3>
+<h4 align="left">I am currently interning at Mad Street Den 🌻 </h4>
 <p>  </p>
 
 <p align="left">
@@ -14,7 +15,6 @@
 - :speech_balloon: &nbsp;I like to talk about **Tech**, **Football** and **Movies**  
 - :mailbox: &nbsp;View my **[resume]**
 - :computer: &nbsp;Reach out to me on **[LinkedIn]** or **[Email]**
-- &nbsp;My favourite youtuber for you :nerd_face: - **[Ben Awad]**
 
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=NikhileshJr08&theme=dark&hide_border=true" width = 400>
 
@@ -159,7 +159,7 @@
 <!-- links -->
 
 [84.51°]: https://github.com/8451 "84.51° Github Home"
-[resume]: https://drive.google.com/file/d/106qBIUw4zy7xQLzrVGC11pzA4NhphGMg/view?usp=sharing
+[resume]: https://drive.google.com/file/d/1GzGrEFIx5izG1Q4MMPh8oAXxrhPyRY-0/view?usp=sharing
 [linkedin]: https://www.linkedin.com/in/nikhilesh-s "Jacob Colvin LinkedIn"
 [Email]: mailto:nikhileshjr08@gmail.com
 [Ben Awad]: https://www.youtube.com/c/BenAwad97
