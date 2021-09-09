@@ -11,7 +11,7 @@
 
 <img align="right" alt="GIF" src="./img/code.gif?raw=true" width="425" height="300" />
 
-- :seedling: &nbsp;I’m currently learning **Node.js, React.js and Docker**
+- :seedling: &nbsp;I’m currently learning **Django, React.js and Docker**
 - :speech_balloon: &nbsp;I like to talk about **Tech**, **Football** and **Movies**  
 - :mailbox: &nbsp;View my **[resume]**
 - :computer: &nbsp;Reach out to me on **[LinkedIn]** or **[Email]**
