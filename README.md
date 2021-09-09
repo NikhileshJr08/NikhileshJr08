@@ -159,7 +159,7 @@
 <!-- links -->
 
 [84.51°]: https://github.com/8451 "84.51° Github Home"
-[resume]: https://drive.google.com/file/d/1GzGrEFIx5izG1Q4MMPh8oAXxrhPyRY-0/view?usp=sharing
+[resume]: https://drive.google.com/file/d/1PU4wFsF9YJycZDJtkPzmkQCpWb2zXJYV/view?usp=sharing
 [linkedin]: https://www.linkedin.com/in/nikhilesh-s "Jacob Colvin LinkedIn"
 [Email]: mailto:nikhileshjr08@gmail.com
 [Ben Awad]: https://www.youtube.com/c/BenAwad97
