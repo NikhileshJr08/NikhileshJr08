@@ -19,7 +19,7 @@
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=NikhileshJr08&theme=dark&hide_border=true" width = 400>
 
 ---
-
+<!--
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
@@ -144,7 +144,7 @@
     </td>
   </tr>
 </table>
-
+-->
 ---
 <!--
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
