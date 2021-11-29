@@ -1,6 +1,6 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Nikhilesh S</h1>
 <h3 align="left">I am a self-taught Software Engineer from India :diya_lamp:</h3>
-<h4 align="left">I am currently interning at <a href = "https://github.com/mad-street-den"> Mad Street Den </a> 🌻 </h4>
+<h4 align="left">I am currently interning at <a href = "https://github.com/mad-street-den"> Mad Street Den</a> 🌻 </h4>
 
 <p align="left">
   <a href="https://github.com/NikhileshJr08">
