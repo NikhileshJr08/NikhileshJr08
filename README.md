@@ -1,7 +1,6 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Nikhilesh S</h1>
 <h3 align="left">I am a self-taught Software Engineer from India :diya_lamp:</h3>
-<h4 align="left">I am currently interning at Mad Street Den 🌻 </h4>
-<p>  </p>
+<h4 align="left">I am currently interning at <a href = "https://github.com/mad-street-den"> Mad Street Den </a> 🌻 </h4>
 
 <p align="left">
   <a href="https://github.com/NikhileshJr08">
@@ -163,3 +162,4 @@
 [linkedin]: https://www.linkedin.com/in/nikhilesh-s "Jacob Colvin LinkedIn"
 [Email]: mailto:nikhileshjr08@gmail.com
 [Ben Awad]: https://www.youtube.com/c/BenAwad97
+[Mad Street Den]: https://github.com/mad-street-den
